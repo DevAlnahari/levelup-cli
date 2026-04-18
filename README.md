@@ -23,10 +23,10 @@ pip install .
 levelup --help
 ```
 
-## � Quick Start
+## 🚀 Quick Start
 
 ```bash
-python levelup.py setup "KAZ"        # Create your profile
+python levelup.py setup "YourName"        # Create your profile
 python levelup.py task add "Fix bug"  # Add a task
 python levelup.py task complete 1     # Complete it (+5 XP)
 python levelup.py start              # 25-min Pomodoro (+100 XP)
