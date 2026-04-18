@@ -132,7 +132,9 @@ Bosses have 1000 HP. Attack them by completing Pomodoros (auto-attacks after eac
 
 ## 🔊 Sound Effects
 
-Auto-generated 8-bit `.wav` sounds on first `setup` for: task complete, Pomodoro done, level up, loot drop, badges, boss hits, and more.
+**Note:** This repository includes a few basic sounds (`task_complete.wav`, `pomodoro_done.wav`, `level_up.wav`), but is **missing several other audio files!** 
+
+You can add your own custom `.wav` files into the `sounds/` directory to get the full experience. If a file is missing, the CLI will automatically generate a basic 8-bit placeholder sound for it on the first run.
 
 ## � Data Files
 
